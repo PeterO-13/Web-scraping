@@ -13,7 +13,7 @@ Dependencies: Install necessary packages listed in requirements.txt.
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/real-estate-data-extractor.git
+git clone (https://github.com/PeterO-13/Web-scraping.git)
 cd real-estate-data-extractor
 
 Set up a virtual environment (optional but recommended):
